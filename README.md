@@ -1,14 +1,13 @@
 # Validateur de Donnees Structurees Schema.org | TAVARDT France
 
 [![Validateur Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-schema-org/)
-[![Juridiction](https://img.shields.io/badge/Juridiction-France-00C853.svg)](https://ag.tavardt.com/fr/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Audit technique du balisage semantique Schema.org en format JSON-LD et Microdata, verification des proprietes obligatoires et extraits enrichis.
 
-Developpe et maintenu par le pole d'ingenierie semantique et de referencement technique de **[TAVARDT France](https://ag.tavardt.com/fr/)**.
+Developpe et maintenu par le pole d'ingenierie semantique et de referencement technique de **TAVARDT France**.
 
----
+***
 
 ## Capacites de Validation Semantique
 
@@ -17,7 +16,7 @@ Developpe et maintenu par le pole d'ingenierie semantique et de referencement te
 * **Controle de Syntaxe et Conformite**: Detection d'erreurs de formatage JSON, de proprietes obligatoires manquantes et de liens rompus.
 * **Score de Qualite Semantique**: Bareme standardise de 0 a 100 points avec etapes d'amelioration pour les extraits enrichis.
 
----
+***
 
 ## Installation et Utilisation
 
@@ -32,20 +31,20 @@ python schema_validator.py exemple.fr
 Pour un rapport au format JSON:
 
 ```bash
-python schema_validator.py exemple.fr --json
+python schema_validator.py exemple.fr -json
 ```
 
----
+***
 
 ## Outil de Diagnostic en Ligne
 
 Pour auditer vos pages et tester vos balisages en production:
 
-* **[Validateur de Donnees Structurees Officiel](https://tools.tavardt.com/fr/validateur-schema-org/)**
+* **Validateur de Donnees Structurees Officiel**
 * **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
 
----
+***
 
 ## Conseil en Donnees Structurees et SEO
 
-Pour des strategies avancees de visibilite semantique conformes aux Standards W3C et Bonnes Pratiques SEO, contactez **[TAVARDT France](https://ag.tavardt.com/fr/contact/)**.
+Pour des strategies avancees de visibilite semantique conformes aux Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT France**.
