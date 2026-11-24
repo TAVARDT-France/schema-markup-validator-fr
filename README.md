@@ -5,7 +5,7 @@
 
 Audit technique du balisage semantique Schema.org en format JSON-LD et Microdata, verification des proprietes obligatoires et extraits enrichis.
 
-Developpe et maintenu par le pole d'ingenierie semantique et de referencement technique de **TAVARDT France**.
+Developpe et maintenu par le pole d'ingenierie semantique et de referencement technique de **TAVARDT**.
 
 ***
 
@@ -41,13 +41,13 @@ python schema_validator.py exemple.fr -json
 Pour auditer vos pages et tester vos balisages en production:
 
 * **Validateur de Donnees Structurees Officiel**
-* **[Portail Entreprise TAVARDT France](https://ag.tavardt.com/fr/)**
+* **[Portail Entreprise TAVARDT](https://ag.tavardt.com/fr/)**
 
 ***
 
 ## Conseil en Donnees Structurees et SEO
 
-Pour des strategies avancees de visibilite semantique conformes aux Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT France**.
+Pour des strategies avancees de visibilite semantique conformes aux Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT**.
 
 ***
 
