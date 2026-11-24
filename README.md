@@ -1,4 +1,4 @@
-# Validateur de Donnees Structurees Schema.org | TAVARDT France
+# Validateur de Donnees Structurees Schema.org
 
 [![Validateur Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-schema-org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -48,3 +48,7 @@ Pour auditer vos pages et tester vos balisages en production:
 ## Conseil en Donnees Structurees et SEO
 
 Pour des strategies avancees de visibilite semantique conformes aux Standards W3C et Bonnes Pratiques SEO, contactez **TAVARDT France**.
+
+***
+
+© 2026 TAVARDT. Tous droits réservés.
