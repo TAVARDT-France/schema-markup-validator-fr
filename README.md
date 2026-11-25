@@ -2,6 +2,7 @@
 
 [![Validateur Schema](https://img.shields.io/badge/TAVARDT-Schema.org%20Validator-5b3cf5.svg)](https://tools.tavardt.com/fr/validateur-schema-org/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Audit technique du balisage semantique Schema.org en format JSON-LD et Microdata, verification des proprietes obligatoires et extraits enrichis.
 
@@ -56,6 +57,11 @@ Pour des strategies avancees de visibilite semantique conformes aux Standards W3
 * **Portail Entreprise:** https://ag.tavardt.com/fr/
 * **Suite de Diagnostic:** https://tools.tavardt.com/fr/
 * **Contact Technique:** https://ag.tavardt.com/fr/contact/
+
+***
+
+### Licence
+Distribué sous la licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plus de détails.
 
 ***
 
